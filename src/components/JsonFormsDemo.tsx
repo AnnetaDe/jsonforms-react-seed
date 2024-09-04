@@ -58,7 +58,7 @@ export const JsonFormsDemo: FC = () => {
 
   const clearData = () => {
     setData({});
-  };
+  }
   return (
     <Grid
       container
